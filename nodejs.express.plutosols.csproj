@@ -75,7 +75,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Start\StartExpress.js" />
+    <Content Include="PlutoSols\Content\css\Style.css" />
+    <Content Include="PlutoSols\Html\404.html" />
+    <Content Include="PlutoSols\Html\about.html" />
+    <Content Include="PlutoSols\Html\index.html" />
+    <Content Include="PlutoSols\Html\products.html" />
+    <Content Include="PlutoSols\Start.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
