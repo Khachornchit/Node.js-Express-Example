@@ -1,9 +1,0 @@
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\bin\nodejs.express.plutosols.dll.config
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\bin\nodejs.express.plutosols.dll
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\bin\nodejs.express.plutosols.pdb
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\obj\Debug\nodejs.express.plutosols.csprojResolveAssemblyReference.cache
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\obj\Debug\nodejs.express.plutosols.csproj.CoreCompileInputs.cache
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\obj\Debug\nodejs.express.plutosols.dll
-D:\OneDrive\Projects\NodeJs\nodejs.express.plutosols\obj\Debug\nodejs.express.plutosols.pdb

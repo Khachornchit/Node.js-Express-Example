@@ -1,0 +1,19 @@
+{
+  "name": "nodejs.express.plutosols",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wwwroot/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plutosolutions/nodejs.express.plutosols.git"
+  },
+  "author": "Pluto Solutions <contact@plutosols.com> (http://www.plutosols.com)",,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plutosolutions/nodejs.express.plutosols/issues"
+  },
+  "homepage": "http://www.plutosols.com"
+}
